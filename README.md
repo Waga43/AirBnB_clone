@@ -6,6 +6,10 @@ Before starting, please read the **AirBnB** concept page.
 
 <a href="https://youtu.be/XRH_8w1DEGI" target="_blank">HBNB Clone</a>
 
+
+![https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%252F20230213%252Fus-east-1%252Fs3%252Faws4_request&X-Amz-Date=20230213T185940Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=19319c4a5fa1803c938c314ea6bb5673095104a0d48ba71416f1ebd4759e4c0c](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%252F20230213%252Fus-east-1%252Fs3%252Faws4_request&X-Amz-Date=20230213T185940Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=19319c4a5fa1803c938c314ea6bb5673095104a0d48ba71416f1ebd4759e4c0c)
+
+
 #### First step: Write a command interpreter to manage your AirBnB objects.
 
 This is the first step towards building your first full web application: the **AirBnB clone**. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
